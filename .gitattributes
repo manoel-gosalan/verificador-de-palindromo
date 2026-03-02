@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Ignora CSS na contagem de linguagens do GitHub
+*.css linguist-vendored
